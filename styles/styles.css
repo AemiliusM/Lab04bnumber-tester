@@ -33,3 +33,10 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+.hidden {
+    display: none;
+}
+.box {
+    margin-bottom: 50%;
+    
+}
